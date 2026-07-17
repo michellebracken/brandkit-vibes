@@ -803,9 +803,10 @@ function Index() {
 
         <section className="mt-8">
           <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
-            Pick a mood, drop in a reference image, and shape a full brand direction — colors,
-            typography, textures, and a live layout preview. Lock what you love, re-roll the rest,
-            then export tokens, PNG, or a print-ready PDF.
+            Start with the right seed color. Every palette grows from this one choice, so pick a
+            hue that already feels close to the mood and color range you want. Then choose a mood
+            to set the harmony, re-roll colors, fonts, textures, and voice until it clicks, and
+            export tokens, PNG, or a print-ready PDF.
           </p>
 
           <div className="mt-6 flex flex-wrap items-center gap-2">
