@@ -1,0 +1,9 @@
+# Brandkit Vibes
+
+> On-device brand board generator: cohesive color palettes, Google Font pairings, textures, editorial layouts and a website mock — exportable as CSS, PNG or print-ready PDF.
+
+Brandkit Vibes runs entirely in the browser. Pick a mood, generate a full brand direction from a seed color or reference image, lock what you like, and re-roll the rest. Export the result as CSS variables, Tailwind theme tokens, JSON, PNG or a print-ready PDF style guide.
+
+## Pages
+
+- [Home](/): Generate brand boards — palettes, typography, textures, layouts and a website mock.

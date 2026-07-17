@@ -1,0 +1,12 @@
+{
+  "name": "Brandkit Vibes",
+  "short_name": "Brandkit",
+  "description": "A field guide to brand direction — palettes, typography, textures and layouts, generated on your device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "/brandkit-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
